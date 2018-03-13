@@ -2,7 +2,7 @@
 Control a relay with an ESP8266 - purpose built module
 
 # See my video # 107 on https://www.youtube.com/RalphBacon
-(Direct link to video:  )
+(Direct link to video: https://youtu.be/NbQN7sOpbLU )
 
 So you want to control some mains electrical (or lower voltage) item using your phone, perhaps? This single ESP8266 plug-in controls a relay that is built in to the module.
 
