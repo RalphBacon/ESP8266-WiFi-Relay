@@ -25,7 +25,7 @@ https://medium.com/@andrewlr/getting-started-with-esp8266-875fb54441d6
 http://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference  
 https://medium.com/@andrewlr/getting-started-with-esp8266-875fb54441d6 (incl. replacement for the baud rate command)  
 
-Link to the ORIGINAL AT command firmware (from Espressif) with instructions
+Link to the ORIGINAL AT command firmware (from Espressif) with instructions  
 http://www.electrodragon.com/w/ESP8266_AT-Command_firmware
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
